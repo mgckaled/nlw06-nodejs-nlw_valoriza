@@ -1,0 +1,1 @@
+"dev": "ts-node-dev --transpile-only --ignore-watch node_modules --respawn src/server.ts"
